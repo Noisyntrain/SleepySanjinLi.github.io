@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## This is Sleepy's personal page.
+LI YIXIN, aka Sleepy is a student in The Chinese University of Hong Kong majoring in computer science.
 
 You can use the [editor on GitHub](https://github.com/SleepySanjinLi/SleepySanjinLi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
